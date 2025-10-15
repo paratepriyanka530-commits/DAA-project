@@ -1,0 +1,10 @@
+Flask==3.0.3
+
+# --- Flask Dependencies (automatically pulled, but listed for completeness) ---
+Werkzeug==3.0.2
+Jinja2==3.1.4
+itsdangerous==2.2.0
+click==8.1.7
+
+# --- For production deployment ---
+gunicorn==21.2.0
